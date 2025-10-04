@@ -1,2 +1,0 @@
-﻿# hotel_management
-# hotel_managment
